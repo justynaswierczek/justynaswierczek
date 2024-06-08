@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Justyna! 👋</h1>
 
 
-# 💫 About Me:
+#  About Me:
 I'm a dedicated Computer Science student at the University of Gdańsk, actively seeking an IT internship to apply my skills and contribute to innovative projects. 
 
 
