@@ -2,7 +2,7 @@
 
 
 #  About Me:
-I'm a dedicated Computer Science student at the University of Gdańsk, actively seeking an IT internship to apply my skills and contribute to innovative projects. 
+I'm a dedicated Computer Science and Econometrics student at the University of Gdańsk, actively seeking an IT internship to apply my skills and contribute to innovative projects. 
 
 
 #  Contact:
