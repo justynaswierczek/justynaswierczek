@@ -10,7 +10,7 @@ I'm a dedicated Computer Science student at the University of Gdańsk, actively 
 <a href="https://linkedin.com/in/justyna-świerczek">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" >
 </a>
-<a href="justynaaswierczek@gmail.com">
+<a href="mailto:justynaaswierczek@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
 </a>
 
