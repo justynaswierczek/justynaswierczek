@@ -16,7 +16,7 @@
   **Technologies:** Django, FaunaDB  
 
 - **Weather Roulette** – A web app that lets users explore weather data for random locations worldwide.  
-  **Technologies:** Django, HTML, CSS (Simple.css), Weather Forecast API, Kaggle World Cities Database  
+  **Technologies:** Django, HTML, CSS, Weather Forecast API, Kaggle World Cities Database  
 
 - **BlogsApp** – A blogging platform where users can create, edit, and delete posts with authentication.  
   **Technologies:** React.js, Node.js, MongoDB  
