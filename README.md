@@ -2,7 +2,7 @@
 
 
 #  About Me:
-I'm a dedicated Computer Science and Econometrics student at the University of Gdańsk.
+ I am studying Computer Science and Econometrics at the University of Gdańsk, specializing in business IT applications. I enjoy learning new technologies and applying them in practice.
 
 
 #  Contact:
